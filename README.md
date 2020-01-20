@@ -8,6 +8,8 @@ module (112) as well as your Haskell and Java modules (120.1 and 120.2 respectiv
 To improve your understanding of Haskell lots of higher order functions will be used, I encourage you to try to 
 understand how each function is working.
 
+Notes for 112 are not available in this page, to get these notes please ask your Computer Systems teacher.
+
 ## Table of Contents
 * [Topic 1: Number Representation](#number-representation)
 * [Topic 2: Radix Arithmetic](#radix-arithmetic)
